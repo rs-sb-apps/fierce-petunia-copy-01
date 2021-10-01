@@ -39,7 +39,7 @@ sections:
         showIcon: false
         icon: arrowLeft
         iconPosition: right
-        style: secondary
+        style: primary
         type: Button
     feature:
       type: ImageBlock
