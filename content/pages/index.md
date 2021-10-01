@@ -28,15 +28,6 @@ sections:
         showIcon: false
         iconPosition: left
         icon: github
-      - elementId: ''
-        label: Learn More
-        altText: Learn More
-        url: /about
-        showIcon: false
-        icon: arrowLeft
-        iconPosition: right
-        style: secondary
-        type: Button
     feature:
       type: ImageBlock
       url: /images/hero.png
