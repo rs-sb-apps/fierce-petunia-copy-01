@@ -31,7 +31,7 @@ sections:
       - elementId: ''
         label: Learn More
         altText: Learn More
-        url: '#'
+        url: /about
         showIcon: false
         icon: arrowLeft
         iconPosition: right
