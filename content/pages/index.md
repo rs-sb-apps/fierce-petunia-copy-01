@@ -29,7 +29,7 @@ sections:
         iconPosition: left
         icon: github
       - elementId: ''
-        label: Learn MOre
+        label: Learn More
         altText: lorem-ipsum
         url: '#'
         showIcon: false
