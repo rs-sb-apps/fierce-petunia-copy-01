@@ -7,7 +7,7 @@ excerpt: >-
   Donec sed facilisis nibh.
 thumbImage:
   type: ImageBlock
-  url: /images/post-2.jpeg
+  url: /images/desmond-eagle.jpg
   altText: Post Image
 bottomSections:
   - type: CtaSection
