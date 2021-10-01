@@ -17,8 +17,12 @@ sections:
     badge:
       label: New Website
     title: This Is A Big Hero Headline
-    text: |
-      Hello, Sean!
+    text: >
+      Cillum dolore adipisicing voluptate laborum eiusmod incididunt enim
+      aliquip sit consequat veniam sunt labore do. Minim dolor deserunt
+      cupidatat nisi non commodo culpa reprehenderit pariatur occaecat pariatur
+      culpa. Sint Lorem id irure labore. Esse elit minim officia do commodo. Sit
+      non velit velit nisi proident Lorem ut velit.
     actions:
       - type: Button
         label: Get Started
