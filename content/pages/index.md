@@ -35,7 +35,7 @@ sections:
         showIcon: false
         icon: arrowLeft
         iconPosition: right
-        style: primary
+        style: secondary
         type: Button
     feature:
       type: ImageBlock
