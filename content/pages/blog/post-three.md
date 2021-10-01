@@ -1,5 +1,5 @@
 ---
-title: Post Title Three - Hello!
+title: Post Title Three
 layout: PostLayout
 date: '2021-07-01'
 excerpt: >-
