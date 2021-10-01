@@ -28,10 +28,6 @@ sections:
         showIcon: false
         iconPosition: left
         icon: github
-      - type: Button
-        label: Learn More
-        url: 'https://www.stackbit.com/'
-        style: secondary
     feature:
       type: ImageBlock
       url: /images/hero.png
