@@ -47,15 +47,6 @@ sections:
         iconPosition: right
         style: link
         type: Link
-      - elementId: ''
-        label: lorem-ipsum
-        altText: lorem-ipsum
-        url: '#'
-        showIcon: false
-        icon: arrowLeft
-        iconPosition: right
-        style: link
-        type: Link
     feature:
       type: ImageBlock
       url: /images/hero.png
