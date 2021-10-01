@@ -1,6 +1,6 @@
 {
     "type": "Config",
-    "backgroundColor": "bg-white",
+    "backgroundColor": "bg-base",
     "navBar": {
         "desktopNavVariant": "variant-a",
         "mobileNavVariant": "variant-a",
