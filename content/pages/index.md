@@ -26,6 +26,7 @@ sections:
         style: primary
         elementId: hero-main-button
         showIcon: true
+        iconPosition: right
       - type: Button
         label: Learn More
         url: 'https://www.stackbit.com/'
