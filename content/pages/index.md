@@ -18,7 +18,7 @@ sections:
       label: New Website
     title: This Is A Big Hero Headline
     text: |
-      Hello Telus!
+      Hello, Sean!
     actions:
       - type: Button
         label: Get Started
