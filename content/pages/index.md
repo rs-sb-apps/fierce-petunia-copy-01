@@ -30,7 +30,7 @@ sections:
         icon: github
       - elementId: ''
         label: Learn More
-        altText: lorem-ipsum
+        altText: Learn More
         url: '#'
         showIcon: false
         icon: arrowLeft
