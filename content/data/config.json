@@ -41,7 +41,8 @@
                 "icon": "arrowLeft",
                 "iconPosition": "right",
                 "style": "link",
-                "type": "Link"
+                "type": "Link",
+                "label": "About"
             }
         ],
         "secondaryLinks": [
