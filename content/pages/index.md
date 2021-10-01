@@ -16,7 +16,7 @@ sections:
     textAlign: left
     badge:
       label: New Website
-    title: 'This Is A Big Hero Headline '
+    title: This Is A Big Hero Headline - 123
     text: >
       Cillum dolore adipisicing voluptate laborum eiusmod incididunt enim
       aliquip sit consequat veniam sunt labore do. Minim dolor deserunt
