@@ -33,7 +33,7 @@ sections:
         iconPosition: left
         icon: github
       - elementId: ''
-        label: lorem-ipsum
+        label: Learn More
         altText: lorem-ipsum
         url: '#'
         showIcon: false
