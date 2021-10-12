@@ -29,7 +29,7 @@ sections:
         url: 'https://www.stackbit.com/'
         style: primary
         elementId: hero-main-button
-        showIcon: true
+        showIcon: false
         iconPosition: left
         icon: github
       - elementId: ''
