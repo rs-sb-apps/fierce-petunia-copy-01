@@ -42,7 +42,7 @@ sections:
         style: secondary
         type: Button
       - elementId: ''
-        label: lorem-ipsum
+        label: Link here
         altText: lorem-ipsum
         url: '#'
         showIcon: false
